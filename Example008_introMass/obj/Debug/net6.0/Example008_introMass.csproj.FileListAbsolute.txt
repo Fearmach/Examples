@@ -1,0 +1,15 @@
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\bin\Debug\net6.0\Example008_introMass.exe
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\bin\Debug\net6.0\Example008_introMass.deps.json
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\bin\Debug\net6.0\Example008_introMass.runtimeconfig.json
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\bin\Debug\net6.0\Example008_introMass.dll
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\bin\Debug\net6.0\Example008_introMass.pdb
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\obj\Debug\net6.0\Example008_introMass.csproj.AssemblyReference.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\obj\Debug\net6.0\Example008_introMass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\obj\Debug\net6.0\Example008_introMass.AssemblyInfoInputs.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\obj\Debug\net6.0\Example008_introMass.AssemblyInfo.cs
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\obj\Debug\net6.0\Example008_introMass.csproj.CoreCompileInputs.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\obj\Debug\net6.0\Example008_introMass.dll
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\obj\Debug\net6.0\refint\Example008_introMass.dll
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\obj\Debug\net6.0\Example008_introMass.pdb
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\obj\Debug\net6.0\Example008_introMass.genruntimeconfig.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example008_introMass\obj\Debug\net6.0\ref\Example008_introMass.dll
