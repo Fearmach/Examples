@@ -1,0 +1,15 @@
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\bin\Debug\net6.0\Example_003Sum.exe
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\bin\Debug\net6.0\Example_003Sum.deps.json
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\bin\Debug\net6.0\Example_003Sum.runtimeconfig.json
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\bin\Debug\net6.0\Example_003Sum.dll
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\bin\Debug\net6.0\Example_003Sum.pdb
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\obj\Debug\net6.0\Example_003Sum.csproj.AssemblyReference.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\obj\Debug\net6.0\Example_003Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\obj\Debug\net6.0\Example_003Sum.AssemblyInfoInputs.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\obj\Debug\net6.0\Example_003Sum.AssemblyInfo.cs
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\obj\Debug\net6.0\Example_003Sum.csproj.CoreCompileInputs.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\obj\Debug\net6.0\Example_003Sum.dll
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\obj\Debug\net6.0\refint\Example_003Sum.dll
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\obj\Debug\net6.0\Example_003Sum.pdb
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\obj\Debug\net6.0\Example_003Sum.genruntimeconfig.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_003Sum\obj\Debug\net6.0\ref\Example_003Sum.dll
