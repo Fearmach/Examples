@@ -1,0 +1,15 @@
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\bin\Debug\net6.0\Example_001Helloworld.exe
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\bin\Debug\net6.0\Example_001Helloworld.deps.json
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\bin\Debug\net6.0\Example_001Helloworld.runtimeconfig.json
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\bin\Debug\net6.0\Example_001Helloworld.dll
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\bin\Debug\net6.0\Example_001Helloworld.pdb
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\obj\Debug\net6.0\Example_001Helloworld.csproj.AssemblyReference.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\obj\Debug\net6.0\Example_001Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\obj\Debug\net6.0\Example_001Helloworld.AssemblyInfoInputs.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\obj\Debug\net6.0\Example_001Helloworld.AssemblyInfo.cs
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\obj\Debug\net6.0\Example_001Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\obj\Debug\net6.0\Example_001Helloworld.dll
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\obj\Debug\net6.0\refint\Example_001Helloworld.dll
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\obj\Debug\net6.0\Example_001Helloworld.pdb
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\obj\Debug\net6.0\Example_001Helloworld.genruntimeconfig.cache
+C:\Users\beloy\OneDrive\Рабочий стол\Учеба\С# Семинары, лекции 3.0\Лекции example\Example_001Helloworld\obj\Debug\net6.0\ref\Example_001Helloworld.dll
