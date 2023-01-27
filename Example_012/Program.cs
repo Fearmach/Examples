@@ -44,16 +44,43 @@
 
 //ВИД 4 Что-то возвращают и что-то принимают
 
-string Method4(int count, string text)
+// string Method4(int count, string text)
+// {
+//     int i = 0;
+//     string result = String.Empty;
+//     while (i < count)
+//     {
+//         result = result + text;
+//         i++;
+//     }
+//     return result;
+// }
+// string res = Method4(10, "text");
+// System.Console.WriteLine(res);
+
+// Вариант через for
+
+// string Method4(int count, string text)
+// {
+//     string result = String.Empty;
+//     for (int i = 0; i < count; i++)
+//     {
+//         result = result + text;
+//     }
+//     return result;
+// }
+// string res = Method4(10, "text");
+// System.Console.WriteLine(res);
+
+
+
+// Цикл в цикле (Таблица умножения)
+
+for (int i = 2; i < 10; i++)
 {
-    int i = 0;
-    string result = String.Empty;
-    while (i < count)
+    for (int j = 2; j <= 10; j++)
     {
-        result = result + text;
-        i++;
+        System.Console.WriteLine($"{i} * {j} = {i * j}");
     }
-    return result;
+    System.Console.WriteLine();
 }
-string res = Method4(10, "text");
-System.Console.WriteLine(res);
